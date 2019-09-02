@@ -10,6 +10,11 @@ body {
 	align-items: center;
 }
 
+.text {
+	color: rgb(102, 31, 31);
+	font-size: 20px;
+}
+
 .container {
 	max-width: 800px;
     width: 100%;
@@ -19,11 +24,6 @@ body {
 	border: 1px solid #000000;
 	border-radius: 5px;
 	background: rgb(166, 175, 253);
-}
-
-.text {
-	color: rgb(102, 31, 31);
-	font-size: 20px;
 }
 
 .btn {
