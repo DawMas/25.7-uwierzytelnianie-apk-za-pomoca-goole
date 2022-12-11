@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/DawMas/25.7-uwierzytelnianie-apk-za-pomoca-goole#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "passport": "^0.4.0",
     "passport-google-oauth": "^2.0.0",
     "pug": "^2.0.4"
